@@ -15,6 +15,7 @@ body {
 
 h3 {
     color: var(--main-text);
+    font-size: 70%;
 }
 
 .top-nav {
@@ -57,8 +58,8 @@ input {
 }
 
 .thumbnail {
-    height: 350px;
-    width: 300px;
+    height: 300px;
+    width: 200px;
     border-radius: 19px;
 }
 

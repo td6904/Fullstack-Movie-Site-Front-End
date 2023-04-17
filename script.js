@@ -23,6 +23,8 @@ function returnMovies(url){
             const image = document.createElement('img');
             image.setAttribute('class', 'thumbnail');
             image.setAttribute('id', 'image');
+            image.setAttribute('alt', 'poster');
+
 
             const title = document.createElement('h3');
             title.setAttribute('id', 'title');
