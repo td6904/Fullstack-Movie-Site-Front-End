@@ -1,5 +1,10 @@
+# Fullstack-Movie-Site-Front-End
 
-### Notes ###
+## Usage
+
+Front end part of a full stack app. Simply run live server on index.html to run it.
+
+## About
 
 Part 1 - the front end, of a tutorial I finished to develop the front and back ends then the connection between both sides.
 
